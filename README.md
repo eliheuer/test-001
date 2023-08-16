@@ -1,6 +1,6 @@
 ----
 
-## Setting up your font
+## Setting up your fonts sfsdfsdf
 
 * **New repositories.** Hit the green button above ("Use this template") to create your own repository. We then need to update the workflow permissions. Go to Settings > Actions > General > Workflow permissions and enable "Read and write permissions". Finally, rerun the failed github action by going to Actions > Initial commit > Re-run jobs > Re-run all jobs.
 
